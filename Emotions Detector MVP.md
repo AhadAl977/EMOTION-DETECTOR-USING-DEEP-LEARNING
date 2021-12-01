@@ -24,7 +24,7 @@ All of the data manipulation above resulted in **7200 rows** and **324 columns**
 #### Deep-Learning Classification 
 Before starting with applying classification models and building neural networks, a few steps were taken beforehand:
 - The **y** was hot encoded.
-- Data was split into 80% for training and 25% for both validation and testing.
+- Data was split into 80% for training, 25% for validation and 20% for testing.
 - A new dimension was added to all X's (X_train, X_val and X_test).<br><br>
 
 Two classification models were built as a base line:
