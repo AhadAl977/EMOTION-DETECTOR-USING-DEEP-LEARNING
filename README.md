@@ -5,7 +5,7 @@ The main goal this project tackles is the ability to detect both the gender and 
 ### This repositry contains:
 - [Images]()
 - [Project Proposal](https://github.com/AhadAl977/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotions%20Detector%20Proposal.md)
-- [Project MVP]()
+- [Project MVP](https://github.com/AhadAl977/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotions%20Detector%20MVP.md)
 - [Project Write-Up]()
 - [Project Presentation]()
 - [**NoteBook**]()
